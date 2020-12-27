@@ -10,12 +10,13 @@
  ## here is the code, it doesn't know real python commands but only calculation>>>
 
 
- while 1:
+# while 1:
 	x = input(">>> ")
 	if x == 'exit':
 		break
 
-	try:
+
+#    try:
 		y = eval(x)
 		if y: print(y)
 	except:
