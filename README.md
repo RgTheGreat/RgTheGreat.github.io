@@ -10,4 +10,4 @@
  ## here is the code, it doesn't know real python commands but only calculation>>>
 
 
-https://github.com/RgTheGreat/RgTheGreat.github.io/py-term.md
+https://rgrhegreat.github.io/py-term.md
