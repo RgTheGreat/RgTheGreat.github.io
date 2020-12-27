@@ -1,4 +1,4 @@
-while 1:
+ while 1:
 	x = input(">>> ")
 	if x == 'exit':
 		break
@@ -14,7 +14,7 @@ while 1:
 			
 
 
-# Hi, would you like to go back?
+ Hi, would you like to go back?
 
 click the button/link below
 
