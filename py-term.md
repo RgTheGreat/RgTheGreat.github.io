@@ -12,3 +12,10 @@ while 1:
 		except Exception as e:
 			print("Syntas or spelling error :", e)
 			
+
+
+# Hi, would you like to go back?
+
+click the button/link below
+
+[https://rgthegreat.github.io"]
