@@ -34,12 +34,8 @@ https://rgthegreat.github.io/py-term.md
 # here is the code to create a real html and php form, but it can't store data you nee python for that!
 
 ## first write a simple form using html >>>
-
-``   
-<!--This is the form-->
 <form action="user_get.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
-``
