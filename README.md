@@ -35,6 +35,12 @@ https://rgthegreat.github.io/py-term.md
 
 ## first write a simple form using html >>>
 
+
+
+# code the web using our code-editor
+
+ <a href="https://rgthegreat.github.io/code.html" download>Click to Download</a>
+
 ##
 
 <form action="index.php" method="post">
