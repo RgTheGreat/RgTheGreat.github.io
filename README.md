@@ -31,11 +31,25 @@ https://rgthegreat.github.io/py-term.md
 
 # Simple login system using html and php
 
-# here is the code to create a real html and php form, but it can't store data you nee python for that!
+#  create a real html and php form, but it can't store data you nee python for that!
 
 ## first write a simple form using html >>>
+
+##
+
 <form action="user_get.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
+
+
+# And the code ofcourse >>
+
+
+# HTML
+https://rgthegreat.github.io/index.md
+
+
+# PHP
+https://rgthegreat.github.io/index_php.md
