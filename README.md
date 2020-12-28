@@ -7,7 +7,7 @@
 
  ``py term``
  
- # here is the code, it doesn't know real python commands but only calculation>>>
+ # here is the code, it  know real python commands and calculation>>>
 
 
 https://rgthegreat.github.io/py-term.md
