@@ -43,7 +43,7 @@ https://rgthegreat.github.io/py-term.md
 
 ##
 
-<form action="index.php" method="post">
+ <form action="index.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
@@ -60,3 +60,7 @@ https://rgthegreat.github.io/index.md
 # PHP
 https://rgthegreat.github.io/index_php.md
 
+
+
+
+## If you want to discover more code visit my github profile >>>> https://github.com/RgTheGreat
