@@ -40,9 +40,7 @@ https://rgthegreat.github.io/py-term.md
 
 
 # code the web using our code-editor.
-<a href="https://rgthegreat.github.io/code-more.md">More info</a>
-
- <a href="https://rgthegreat.github.io/code.html" download>Click to Download</a>
+<a href="https://rgthegreat.github.io/code-more.md">More info</a> <a href="https://rgthegreat.github.io/code.html" download>Click to Download</a>
 
 
 
