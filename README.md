@@ -73,3 +73,23 @@ https://rgthegreat.github.io/index_php.md
 
 
 ## If you want to discover more code visit my github profile >>>> https://github.com/RgTheGreat
+
+
+
+
+
+
+
+
+
+
+
+
+*****************************************************************************************************
+
+
+## I am creating an OS!
+
+#### I started to think to create another OS -- https://github.com/RgTheGreat/Snow-OS
+
+### even though the kernel is made out of html and python, it could still work great!
