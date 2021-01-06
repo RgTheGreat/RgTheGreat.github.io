@@ -4,7 +4,7 @@
 
 # RgTheGreat.github.io
 
-##### * - means next!
+### Amazing coding ideas, projects and news!
 
 ## welcome to rgthegreat.github.io (blog)
 
