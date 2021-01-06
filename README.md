@@ -4,7 +4,7 @@
 
 # RgTheGreat.github.io
 
-### Amazing coding ideas, projects and news!
+### Amazing coding ideas, projects, news and HowTo!
 
 ## welcome to rgthegreat.github.io (blog)
 
