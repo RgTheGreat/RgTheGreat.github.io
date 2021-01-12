@@ -36,7 +36,7 @@
 
 # Simple login system using html and php
 
-#  create a real html and php form, but it can't store data you nee python for that!
+#  create a real html and php form, but it can't store data you need SQL for that!
 
 ## first write a simple form using html >>>
 
