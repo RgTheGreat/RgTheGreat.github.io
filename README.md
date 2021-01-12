@@ -15,8 +15,7 @@
  
  ## here is the code, it  know real python commands and calculation>>>
 
-
-https://rgthegreat.github.io/py-term.md
+<script src="https://gist.github.com/RgTheGreat/b87fb2c174db43d376e9a35151319e7c.js"></script>
 
 
 ******************************************************
