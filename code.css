@@ -61,3 +61,9 @@ color: white;
   height: 90vh;
   font-family: Verdana;
 }
+
+
+.title {
+ color: orange; 
+ font-family:  Consolas, 'Courier New', monospace;
+}
