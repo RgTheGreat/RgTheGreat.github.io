@@ -21,19 +21,6 @@
 ******************************************************
 
 
-
-
-## Have ever thought how to create an os?
-
-### here is a link to my own OS - website os - http://saturated-cycle.000webhostapp.com/newwebsite/done.html
-
-## if you want to see the ``code`` you can view the code and create your own OS! >>
-<script src="https://gist.github.com/RgTheGreat/eaa9c4789bcd131baf09b339bd35c226.js"></script>
-
-
-**********************************************************************************************************
-
-
 # Simple login system using html and php
 
 #  create a real html and php form, but it can't store data you need SQL for that!
@@ -42,7 +29,8 @@
 
 
 
- <form action="index.php" method="post">
+ 
+<form action="index.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
